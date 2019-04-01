@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
+
 # Collaborators’ Bill of Rights
 
 1. All kinds of work on a project are equally deserving of credit (though the amount of work and expression of credit may differ). And all collaborators should be empowered to take credit for their work.
